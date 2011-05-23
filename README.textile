@@ -1,0 +1,7 @@
+h1. JModel
+
+JModel is a simple API and DSL for creating XMI files that can be loaded into various UML modelling tools. The software has been tested with Visual Paradigm UML and MagicDraw.
+
+See the source code for an example of how it use it.
+
+Enjoy!
